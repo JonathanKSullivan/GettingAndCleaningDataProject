@@ -1,4 +1,5 @@
 # GettingAndCleaningDataProject
+
 ##This is the final project for the Coursera 's John Hopkin's Getting and Cleaning Data Course.
 >This file roughly follows the following steps:
 *Merges the training and the test sets to create one data set.
